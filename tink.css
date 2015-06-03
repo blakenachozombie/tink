@@ -1,0 +1,66 @@
+        fieldset {
+            clear: both;
+            margin-left: auto;
+            margin-right: auto;
+            width: 35%;
+            background-color: #ffffff;
+            border-style: groove;
+            border-color: #000000;
+        }
+        #output {
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+            width: 475px;
+            font-size: 15px;
+        }
+        h1 {
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+        }
+        button {
+            color: #0099ff;
+            width: auto;
+            display: inline;
+        }
+        #bottominfo {
+            background-color: #000000;
+            border-style: groove;
+            border-color: #999999;
+            position: absolute; bottom: 0; width: 98.5%; color: #ffffff;
+        }
+        h5 {
+            text-align: left;
+            display: inline;
+        }
+        a {
+            text-align: left;
+            display: inline;
+            color: #0099ff;
+        }
+        p {
+            text-align: center;
+        }
+        img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        #title {
+            margin-right: auto;
+            margin-left: auto;
+            display: block;
+            width: 107px;
+        }
+        #title h1 {
+            margin-left: 6px;
+            float: left;
+        }
+        #title img {
+            float: left;
+            margin-top: 28px;
+        }
+        #smartremark {
+            display: inline;
+        }
